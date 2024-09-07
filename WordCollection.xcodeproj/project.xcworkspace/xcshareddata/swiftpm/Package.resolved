@@ -1,0 +1,15 @@
+{
+  "originHash" : "4d97c7e8aef2fe7a3c75c50179639f6c6b077bdd8776b95e44d1878b1ce9abc8",
+  "pins" : [
+    {
+      "identity" : "libretranslate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wacumov/libretranslate.git",
+      "state" : {
+        "revision" : "16c4f108a589089dc5a247d5047bd216638c1f68",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
